@@ -13,6 +13,7 @@
     "@tailwindcss/vite": "^4.0.14",
     "axios": "^1.8.3",
     "cors": "^2.8.5",
+    "firebase": "^11.4.0",
     "flowbite": "^3.1.2",
     "momnet": "^0.0.1-security",
     "react": "^19.0.0",
